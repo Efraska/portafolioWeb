@@ -1,56 +1,56 @@
 # DEVELOPER PORTFOLIO
 
-A portfolio website template for campers
+Mi portafolio WEB!!!
 
-![jane-doe](jane-shot.png)
+![Efrain Arévalo](efra.porta.PNG)
 
-## Author
+## Autor
 
-[@koladechris](https://www.twitter.com/koladechris)
+[@Efrasss](https://github.com/efrasss?tab=repositories)
 
 ## Github repo
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+Este es el [link](https://github.com/Efraska/portafolioWeb.git) al repositorio de Github del proyecto
 
-## Sample Website
+## Sitio web de muestra
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+Ya hay una demostración en vivo disponible a través de este [link](https://eager-williams-af0d00.netlify.app/?)
 
-## Tech Stack
+## Pila de Tecnología
 
 **Client:** HTML, CSS, Vanilla JavaSCript
 
-## Tools Used
+## Herramientas utilizadas
 
-Below are are list of tools used, and the precise things they were used for:
+A continuación se muestra una lista de las herramientas utilizadas y para qué se utilizaron exactamente:
 
-- [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
-- [Drawkit](https://www.drawkit.io/) for Jane Doe illustration
-- [Icon8](https://icons8.com/) for animated icons and skills icons
-- [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
-- [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
+- [Ion Icons](https://ionic.io/ionicons) para barra de menú de hamburguesas
+- [Drawkit](https://www.drawkit.io/) para la ilustración de Efrain Arévalo
+- [Icon8](https://icons8.com/) para íconos animados e íconos de habilidades
+- [Animate CSS](https://animate.style/) para la animación del texto biográfico de JEfrain Arévalo
+- [Formspree](https://formspree.io/) para envío de formularios de contacto y envío directo a Gmail
 
-## Folder Structure
+## Estructura de carpetas
 
-The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
+Los archivos index.html y Léame se encuentran en la carpeta raíz, junto con la captura de pantalla incluida en el Léame.
 
-The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
+La carpeta de activos contiene los archivos CSS y JavaScript, todas las imágenes e íconos utilizados, en sus respectivas carpetas.
 
-## Customization Guide
+## Guía de personalización
 
-The various sections in the HTML and CSS are well commented, so feel free to change whatever doesn't suit you need.
+Las distintas secciones de HTML y CSS están bien comentadas, así que siéntete libre de cambiar lo que no se adapte a tus necesidades.
 
-The JavaScript functions are commented too, so you will know what the functions and selections do.
+Las funciones de JavaScript también están comentadas, para que sepa qué hacen las funciones y selecciones.
 
-I used Ion Icons and Icons8 for the icons, but feel free to use fontawesome or any other icon library you want.
+Usé Ion Icons e Icons8 para los íconos, pero siéntete libre de usar fontawesome o cualquier otra biblioteca de íconos que desees.
 
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
+Para el envío del formulario, se utilizó Formspree. Puede obtener un tutorial práctico sobre cómo usar Formspree viendo esto [YouTube video](https://formspree.io/). Los envíos se enviarán directamente a la cuenta de Gmail especificada.
 
-In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
 
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
+Además de Formspree, también puede utilizar el envío de formularios de Netlify en caso de que implemente allí. Brad Traversy tiene un [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
 
-## Acknowledgements
+
+## Agradecimientos
 
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
