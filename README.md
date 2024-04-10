@@ -14,7 +14,7 @@ Este es el [link](https://github.com/Efraska/portafolioWeb.git) al repositorio d
 
 ## Sitio web de muestra
 
-Ya hay una demostración en vivo disponible a través de este [link](https://eager-williams-af0d00.netlify.app/?)
+Ya hay una demostración en vivo disponible a través de este [link](https://portafoliowebefrain.netlify.app/)
 
 ## Pila de Tecnología
 
