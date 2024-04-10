@@ -27,7 +27,7 @@ A continuación se muestra una lista de las herramientas utilizadas y para qué 
 - [Ion Icons](https://ionic.io/ionicons) para barra de menú de hamburguesas
 - [Drawkit](https://www.drawkit.io/) para la ilustración de Efrain Arévalo
 - [Icon8](https://icons8.com/) para íconos animados e íconos de habilidades
-- [Animate CSS](https://animate.style/) para la animación del texto biográfico de JEfrain Arévalo
+- [Animate CSS](https://animate.style/) para la animación del texto biográfico de Efrain Arévalo
 - [Formspree](https://formspree.io/) para envío de formularios de contacto y envío directo a Gmail
 
 ## Estructura de carpetas
